@@ -10,23 +10,26 @@ const Nav = () => {
       <h1 className='text-xl font-semibold text-slate-900 '>世界</h1>
       <ul className="flex space-x-5">
 
-        <a href="https://www.linkedin.com/in/david-gabriel-faustino-lopez-8b084620b/" target="_blank" rel="">
+        <a href="https://www.linkedin.com/in/david-gabriel-faustino-lopez-8b084620b/" target="_blank" rel="noopener noreferrer">
           <li>
             <SiLinkedin color="#0f172a" size={24} />
           </li>
         </a>
 
-        <a href="https://github.com/GFaustin0" target="_blank" rel="">
+        <a href="https://github.com/GFaustin0" target="_blank" rel="noopener noreferrer">
           <li>
             <SiGithub color="#0f172a" size={24} />
           </li>
         </a>
 
-        <a href="https://www.behance.net/GabrielNulo" target="_blank" rel="">
+        <a href="https://www.behance.net/GabrielNulo" target="_blank" rel="noopener noreferrer">
           <li>
             <FaBehanceSquare color="#0f172a" size={26} />
           </li>
         </a>
+
+
+
 
       </ul>
     </nav>
