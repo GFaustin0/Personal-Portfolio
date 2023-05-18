@@ -15,7 +15,7 @@ const Work = () => {
         </Tilty>
       </a>
 
-      <a href="" target="https://www.behance.net/GabrielNulo" rel="noopener noreferrer" className='flex flex-col justify-center items-center hover:scale-110 transition-all cursor-pointer mb-8 sm:mb-10 lg:mb-0'>
+      <a href="https://www.behance.net/GabrielNulo" target="_blank" rel="noopener noreferrer" className='flex flex-col justify-center items-center hover:scale-110 transition-all cursor-pointer mb-8 sm:mb-10 lg:mb-0'>
         <Tilty className='flex flex-col justify-center items-center' glare maxGlare={0.1}>
           <div className="h-28 w-48 sm:h-36 sm:w-56 md:h-44 md:w-72 lg:h-44 lg:w-92 xl:h-56 xl:w-96 bg-slate-400  rounded-xl shadow-xl flex justify-center items-center ">
             <span className='font-semibold text-base sm:text-lg md:text-xl'>Coming Soon</span>
@@ -24,7 +24,7 @@ const Work = () => {
         </Tilty>
       </a>
 
-      <a href="" target="https://www.behance.net/GabrielNulo" rel="noopener noreferrer" className='flex flex-col justify-center items-center hover:scale-110 transition-all cursor-pointer mb-8 sm:mb-10 lg:mb-0 '>
+      <a href="https://www.behance.net/GabrielNulo" target="_blank" rel="noopener noreferrer" className='flex flex-col justify-center items-center hover:scale-110 transition-all cursor-pointer mb-8 sm:mb-10 lg:mb-0 '>
         <Tilty className='flex flex-col justify-center items-center' glare maxGlare={0.1}>
           <div className="h-28 w-48 sm:h-36 sm:w-56 md:h-44 md:w-72 lg:h-44 lg:w-92 xl:h-56 xl:w-96 bg-slate-400  rounded-xl shadow-xl flex justify-center items-center ">
             <span className='font-semibold text-base sm:text-lg md:text-xl'>Coming Soon</span>
